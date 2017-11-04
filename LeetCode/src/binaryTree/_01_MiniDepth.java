@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Liang
  *
  */
-public class MiniDepth {
+public class _01_MiniDepth {
 	public int run(TreeNode root) {
 
 		if (root == null)

@@ -11,7 +11,7 @@ import java.util.Stack;
  * @author Liang
  *
  */
-public class evaluateReversePolishNotation {
+public class _02_evaluateReversePolishNotation {
 
 	public int evalRPN(String[] tokens) {
 		int result = 0;
